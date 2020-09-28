@@ -10,6 +10,8 @@
     "@angular/platform-browser": "^10.1.3",
     "@angular/platform-browser-dynamic": "^10.1.3",
     "@angular/router": "^10.1.3",
+    "ajv": "^6.12.5",
+    "ajv-keywords": "^3.5.2",
     "autolinker": "^1.8.3",
     "core-js": "^2.5.7",
     "ngx-quill": "^12.0.1",
